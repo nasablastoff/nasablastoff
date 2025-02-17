@@ -8,7 +8,7 @@
 <h2>Certifications</h2>
 
 <b>ISC2</b>
-- Certified in CyberSecurity
+- Certified in CyberSecurity, IN PROGRESS
 
 
 
