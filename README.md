@@ -3,7 +3,7 @@
 <h2>👩🏾‍💻 CyberSecurity Projects:</h2>
 
 - <b>Active Directory Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/nasablastoff/laburl)
 
 <h2>Certifications</h2>
 
